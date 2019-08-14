@@ -210,8 +210,8 @@
     width: auto;
     height: 100vh;
     padding-top: 1rem;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.3)), color-stop(75%, rgba(22, 22, 22, 0.7)), to(#161616)), url("../content/img/portrait-playing.jpg");
-    background: linear-gradient(to top, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../content/img/portrait-playing.jpg");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(22, 22, 22, 0.3)), color-stop(75%, rgba(22, 22, 22, 0.7)), to(#161616)), url("../content/img/portrait-playing.JPG");
+    background: linear-gradient(to top, rgba(22, 22, 22, 0.1) 0%, rgba(22, 22, 22, 0.5) 75%, #161616 100%), url("../content/img/portrait-playing.JPG");
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
